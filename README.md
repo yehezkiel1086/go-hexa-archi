@@ -67,3 +67,4 @@ Libraries:
 - gorm.io/gorm
 - gorm.io/driver/postgres
 - github.com/google/uuid
+- github.com/golang-jwt/jwt/v5
