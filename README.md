@@ -1,5 +1,7 @@
 # Go Hexagonal Architecture
 
+Golang Gin Hexagonal Architecture Implementation with Docker, Redis, Github Actions, RabbitMQ, Postgres and GORM.
+
 ## Running Instructions
 
 1. Make sure your Go version is 1.24 or higher
